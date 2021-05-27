@@ -1,0 +1,13 @@
+.title{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.caption{
+    background-color: rgb(194, 225, 255);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 20px;
+}
